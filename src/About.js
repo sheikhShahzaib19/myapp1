@@ -11,7 +11,7 @@ const About =()=>{
         name="Welcome to About page" 
         imgsrc={web} 
         visit='/contact' 
-        btname="Contact Name"/>
+        btname="Contact Now"/>
         </>
     )
 }
