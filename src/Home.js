@@ -9,7 +9,7 @@ const Home =()=>{
         <>
         <Common name="We are the team of talented developers making websites."
         imgsrc={web}
-        visit="./service"
+        visit="./services"
         btname="Get started"/>
         </>
     )
