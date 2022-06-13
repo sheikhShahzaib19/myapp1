@@ -1,0 +1,21 @@
+{
+  "main.css": "/myapp1/static/css/main.4ce70e21.chunk.css",
+  "main.js": "/myapp1/static/js/main.d4f5f33f.chunk.js",
+  "main.js.map": "/myapp1/static/js/main.d4f5f33f.chunk.js.map",
+  "static/css/1.ee0a4fae.chunk.css": "/myapp1/static/css/1.ee0a4fae.chunk.css",
+  "static/js/1.3cdb6d79.chunk.js": "/myapp1/static/js/1.3cdb6d79.chunk.js",
+  "static/js/1.3cdb6d79.chunk.js.map": "/myapp1/static/js/1.3cdb6d79.chunk.js.map",
+  "runtime~main.js": "/myapp1/static/js/runtime~main.b83d242e.js",
+  "runtime~main.js.map": "/myapp1/static/js/runtime~main.b83d242e.js.map",
+  "static/media/myimg.jpg": "/myapp1/static/media/myimg.fd6ad5fa.jpg",
+  "static/media/apple.png": "/myapp1/static/media/apple.b44115ae.png",
+  "static/media/port1.png": "/myapp1/static/media/port1.07468bcd.png",
+  "static/media/port2.png": "/myapp1/static/media/port2.009b04cb.png",
+  "static/media/port3.png": "/myapp1/static/media/port3.8b21af28.png",
+  "static/media/port4.png": "/myapp1/static/media/port4.d3fdb509.png",
+  "static/css/main.4ce70e21.chunk.css.map": "/myapp1/static/css/main.4ce70e21.chunk.css.map",
+  "static/css/1.ee0a4fae.chunk.css.map": "/myapp1/static/css/1.ee0a4fae.chunk.css.map",
+  "index.html": "/myapp1/index.html",
+  "precache-manifest.6ac5ad04ff5fd0c5bb082ddf199395e1.js": "/myapp1/precache-manifest.6ac5ad04ff5fd0c5bb082ddf199395e1.js",
+  "service-worker.js": "/myapp1/service-worker.js"
+}
