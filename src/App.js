@@ -16,7 +16,11 @@ const App=()=> {
       <main>
       <Navbar/>
       <Routes>
+<<<<<<< HEAD
       <Route exact path='/' element={<Home/>}/>
+=======
+     <Route exact path='/' element={<Home/>}/>
+>>>>>>> 2c093cd22c9efbda93d5ad9f0bc3df430624dc8a
       <Route exact path='/home' element={<Home/>}/>
       <Route exact path='/about' element={<About/>}/>
       <Route exact path='/services' element={<Services/>}/>
