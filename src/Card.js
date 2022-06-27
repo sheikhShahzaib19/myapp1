@@ -1,15 +1,11 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-// import web from '../src/images/baby.jpg'
-// import Sdata from '../Sdata'
 
 const Card = (props) => {
     return (
         <>
             <div className="col-md-4 col-10 mx-auto">
-                <div className="card"
-                
-                >
+                <div className="card">
                     <img src={props.imgsrc} className="imag"  alt="Not show" />
                     <div className="card-body">
                         <h5 className="card-title">{props.title}</h5>
